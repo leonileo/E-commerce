@@ -3,7 +3,6 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px #000;
-    font-family: 'Poppins', sans-serif;
 }
 .nav-logo{
     display: flex;

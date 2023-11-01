@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import './Hero.css'
 import hand_icon from '../Assets/hand_icon.png'
@@ -23,7 +24,7 @@ const Hero = () => {
             </div>
         </div>
         <div className="hero-right">
-            
+            <img src={hero_image} alt="" />            
         </div>
 
     </div>
